@@ -1,0 +1,184 @@
+
+---Downloaded files---
+The import files for: Acadu Demo were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://newsite.patancollege.edu.np
+Data file = /home/patancollege/public_html/newsite.patancollege.edu.np/wp-content/themes/acadu/inc/demo-data/acadu-demo.xml
+Widget file = /home/patancollege/public_html/newsite.patancollege.edu.np/wp-content/themes/acadu/inc/demo-data/acadu-widgets-demo.json
+Customizer file = not defined!
+Redux files:
+acadu_opt -> /home/patancollege/public_html/newsite.patancollege.edu.np/wp-content/themes/acadu/inc/demo-data/redux_options_demo.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+Block - No Title - Imported
+Block - No Title - Imported
+Acadu :: Recent Posts - Recent Posts - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+
+Page Sidebar : 
+
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+Acadu :: About Us Widget - No Title - Imported
+
+Offcanvas Sidebar : 
+
+Acadu :: About Us Widget - No Title - Imported
+Acadu :: Recent Posts - Recent Posts - Imported
+Vendora :: Newsletter - Get in touch! - Imported
+
+Footer Widgets Area 1 : 
+
+Acadu :: About Us Widget - No Title - Imported
+
+Footer Widgets Area 2 : 
+
+Navigation Menu - Quick link - Imported
+
+Footer Widgets Area 3 : 
+
+Navigation Menu - Resources - Imported
+
+Footer Widgets Area 4 : 
+
+Vendora :: Newsletter - Get in touch! - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: acadu_opt finished successfully!
+
+---ocdi/after_import---
+
